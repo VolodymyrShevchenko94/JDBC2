@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="production">
+    <CLASSES>
+      <root url="file://$USER_HOME$/Downloads/001_Samples/out/production" />
+      <root url="jar://$USER_HOME$/Downloads/001_Samples/protobuf-java-3.11.4.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/001_Samples/mysql-connector-java-8.0.23.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
